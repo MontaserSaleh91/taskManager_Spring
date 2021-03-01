@@ -15,9 +15,6 @@
 	<name>javabeltexam</name>
 	<description>javabeltexam Assigment</description>
 
-	<properties>
-		<java.version>15</java.version>
-	</properties>
 
 	<dependencies>
 		<dependency>
