@@ -12,7 +12,6 @@
 <body>
 	<div class="container">
 		<div class="notification">
-			<p class="title">Welcome</p>
 		</div>
 
 		<!-- left and right -->
@@ -72,7 +71,6 @@
 					<div class="gap"></div>
 					<h3 class="title">Login</h3>
 					<p>
-						hello
 						<c:out value="${error}" />
 					</p>
 
